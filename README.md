@@ -1,10 +1,12 @@
 # Plint-BotNet
 To get Access to my BotNet, DM me on Discord ASM_Royal#6666 or join my Discord Server https://discord.com/invite/QCY6CuajqK
-```OR USE THE FREE BOTNET USER TO INSPECT IT
+```
+OR USE THE FREE BOTNET USER TO INSPECT IT
 Hostname: plint.ddns.net
 Port: 101
 User: free
 Password: free123
+```
 
 ![unknown](https://user-images.githubusercontent.com/89786570/174449780-2ce50ff5-c525-4f4c-82cf-379b63e5b3ca.png)
 
