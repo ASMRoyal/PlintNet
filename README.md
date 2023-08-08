@@ -3,7 +3,7 @@ To get Access to my BotNet, DM me on Discord ASM_Royal#6666 or join my Discord S
 
 ## Free Login
 ```
-Hostname: plint.ddns.net
+Hostname: plint.onthewifi.com
 Port: 101
 User: free
 Password: free123
