@@ -1,5 +1,5 @@
 # Plint-BotNet
-To get Access to my BotNet, DM me on Discord ASM_Royal#6666 or join my Discord Server https://discord.com/invite/QCY6CuajqK
+To get Access to my BotNet, DM me on Discord 0xyz or join my Discord Server https://discord.com/invite/QCY6CuajqK
 To use my botnet u need any raw connection client like netcat etc. (PuTTY recommended)
 Download PuTTY here: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
