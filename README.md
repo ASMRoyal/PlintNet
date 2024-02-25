@@ -2,7 +2,7 @@
 To get Access to my BotNet, DM me on Discord 0xyz or join my Discord Server https://discord.com/invite/QCY6CuajqK
 To use my botnet u need any raw connection client like netcat etc. (PuTTY recommended)
 Download PuTTY here: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-https://mega.nz/file/gKtU0SbA#uGaDH3UnOxEWkjSp0il0cKd1CXsqaDViGVaU129ZA6c
+
 ## Free Login
 ```
 Hostname: plint.onthewifi.com
