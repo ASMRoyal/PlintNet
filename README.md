@@ -18,8 +18,6 @@ Password: free123
 
 https://user-images.githubusercontent.com/89786570/174481056-1ea01d8b-15ba-4b33-acbd-34de6e735f7b.mp4
 
-![grafik](https://github.com/user-attachments/assets/84ff443a-bc8e-45e4-8dc2-5025d76df97c)
-
 ![image](https://github.com/ASMRoyal/PlintNet/assets/89786570/12b0f932-15b3-4ee0-b726-32e356e4c44a)
 
 ![Screenshot 2023-05-04 172943](https://github.com/ASMRoyal/plint-botnet/assets/89786570/49ef1e56-c414-4e66-9c84-8bd956a9915c)
